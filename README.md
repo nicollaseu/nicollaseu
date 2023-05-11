@@ -14,7 +14,7 @@
 <div id="Redes">
   <a href="https://www.instagram.com/nicollas__eu/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://api.whatsapp.com/send?phone=5511968264000text=Ola,%20vi%20seu%20numero%20em%20seu%20github.">
+ <a href="https://api.whatsapp.com/send?phone=5511968264000&text=Ola,%20vi%20seu%20numero%20em%20seu%20github.">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  
 <div style="display: inline_block"><br>
