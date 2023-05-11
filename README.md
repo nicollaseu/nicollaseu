@@ -14,5 +14,4 @@
   <div style="display: inline_block"><br>
   <img src="https://skills.thijs.gg/icons?i=java,angular,html,css">
 
-        
-  
+  ![Snake animation](https://github.com/nicollaseu/nicollaseu/blob/output/github-contribution-grid-snake.svg)
