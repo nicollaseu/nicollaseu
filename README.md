@@ -3,7 +3,7 @@
 - Estou trabalhando atualmente em backend
 - Estou estudando angular, java, html e css.
 - Me contate: nsilvademoraes@gmail.com
-- Pronouns: ele/dele
+- Pronomes: ele/dele
 
  <div>
   <a href="https://github.com/jeskamoraes">
