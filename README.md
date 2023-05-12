@@ -23,4 +23,10 @@
 ![DiscordProfileBanner](https://discord.c99.nl/widget/theme-1/690586846278844500.png)
    
 ![Snake animation](https://github.com/nicollaseu/nicollaseu/blob/output/github-contribution-grid-snake.svg)
+ 
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{nicollaseu}/count.svg" /></p> 
+<br>
+</div>
   
