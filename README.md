@@ -1,6 +1,6 @@
 
 
-- Estou trabalhando atualmente em backend
+- Desenvolvedor Front-end e Back-end
 - Estou estudando java,nextjs,html,css.
 - Me contate: nsilvademoraes@gmail.com
 - Pronomes: ele/dele
