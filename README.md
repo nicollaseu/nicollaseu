@@ -1,7 +1,7 @@
 
 
 - Desenvolvedor Front-end e Back-end
-- Estou estudando java,nextjs,html,css.
+- Estou estudando java,javascript,nextjs,html,css.
 - Me contate: nsilvademoraes@gmail.com
 - Pronomes: ele/dele
 
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  
 <div style="display: inline_block"><br>
-<img src="https://skills.thijs.gg/icons?i=java,nextjs,html,css">
+<img src="https://skills.thijs.gg/icons?i=java,javascript,nextjs,html,css">
 
 ![DiscordProfileBanner](https://discord.c99.nl/widget/theme-1/690586846278844500.png)
    
