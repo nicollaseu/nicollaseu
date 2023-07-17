@@ -22,6 +22,6 @@
 
 ![DiscordProfileBanner](https://discord.c99.nl/widget/theme-1/690586846278844500.png)
    
-![Snake animation](https://github.com/nicollaseu/nicollaseu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nicollaseu/nicollaseu/blob/output/github-contribution-grid-snake.svg) 
  
   
