@@ -1,7 +1,7 @@
 
 
 - Desenvolvedor Front-end e Back-end
-- Estou estudando java,javascript,html,css, typescript, react.
+- Estou estudando html,css,javascript,react,typescript e java.
 - Me contate: nsilvademoraes@gmail.com
 - Pronomes: ele/dele
 
