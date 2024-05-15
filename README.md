@@ -11,13 +11,6 @@
   <img height="180em" src="https://readme-tx.vercel.app/api/top-langs/?username=nicollaseu&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div id="Redes">
-  <a href="https://www.instagram.com/nicollas__eu/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://api.whatsapp.com/send?phone=5511968264000&text=Ola,%20vi%20seu%20numero%20em%20seu%20github.">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</div>
-
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue)
 
 ### Main skills:
