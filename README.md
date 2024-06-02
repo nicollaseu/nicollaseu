@@ -1,7 +1,6 @@
 
 
-- Desenvolvedor Front-end e Back-end
-- Estou estudando html,css,javascript,react,typescript e java.
+- Desenvolvedor Web Full Stack Javascript | Node.js | React | MySQL | Java
 - Me contate: nsilvademoraes@gmail.com
 - Pronomes: ele/dele
 
