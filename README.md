@@ -7,8 +7,8 @@
 
 ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nicollaseu&theme=dark)](https://git.io/streak-stats)
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.webp">
 
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicollaseu&hide=contribs,prs&show_icons=true&theme=dark)
 
 ---
