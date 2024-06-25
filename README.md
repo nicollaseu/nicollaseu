@@ -1,7 +1,15 @@
-
-<h1 align = "center"> Hello  I'm  Nicollas Silva de Moraes </h1><h3 align = "center">  Developer Back - End | Front - End | Full - Stack  São Paulo  Brazil
+<img width=100% bottom=50px src="https://github.com/nicollaseu/nicollaseu/assets/70412561/b418c7b6-335d-4758-adb6-14ce12119ea6"/>
 
 ---
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&color=E9E5FF&center=true&random=false&width=435&lines=Hello+my+name+is+Nicollas+S.+Moraes%2C;I'm+20+years+old+;I'm+a+Software+Developer;I'm+from+Brazil" alt="Typing SVG" />
+  </a>
+</div>
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="80" height="80"/> </a>
 
@@ -21,7 +29,17 @@
 ![DiscordProfileBanner](https://discord.c99.nl/widget/theme-1/690586846278844500.png)
 
 ---
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nicollas-moraes/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/nicollas__eu/)
+<div align="center"> 
+<a href="https://instagram.com/nicollas__eu" target="_blank">
+<img align="center" height="84" width="84" src="https://github.com/nicollaseu/nicollaseu/assets/70412561/4dd3c084-6dee-4693-bc98-1d113c1536c9">
+</a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231B6E65&lines=Thanks+for+the+visit.+Check+back+often)](https://git.io/typing-svg)
+<a  href="https://www.linkedin.com/in/nicollas-moraes/" target=_blank>
+<img align="center"  height="80" width="80" src="https://github.com/nicollaseu/nicollaseu/assets/70412561/583ae975-0b63-49b9-b465-75a46ef6ffbf">
+</a>
+
+</div>
+
+<div align="center" >
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&color=E9E5FF&center=true&random=false&width=435&lines=Thanks+for+visiting.;+Check+back+often.)](https://git.io/typing-svg)
