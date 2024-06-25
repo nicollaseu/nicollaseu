@@ -31,11 +31,11 @@
 ---
 <div align="center"> 
 <a href="https://instagram.com/nicollas__eu" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/nicollaseu/nicollaseu/assets/70412561/4dd3c084-6dee-4693-bc98-1d113c1536c9">
+<img align="center" height="70" width="70" src="https://github.com/nicollaseu/nicollaseu/assets/70412561/4dd3c084-6dee-4693-bc98-1d113c1536c9">
 </a>
 
 <a  href="https://www.linkedin.com/in/nicollas-moraes/" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/nicollaseu/nicollaseu/assets/70412561/583ae975-0b63-49b9-b465-75a46ef6ffbf">
+<img align="center"  height="70" width="70" src="https://github.com/nicollaseu/nicollaseu/assets/70412561/583ae975-0b63-49b9-b465-75a46ef6ffbf">
 </a>
 
 </div>
