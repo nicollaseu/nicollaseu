@@ -30,7 +30,7 @@
 
 ---
 <div align="center"> 
-<a href="https://instagram.com/nicollas__eu" target="_blank">
+<a href="https://instagram.com/eu__nicollasm" target="_blank">
 <img align="center" height="70" width="70" src="https://github.com/nicollaseu/nicollaseu/assets/70412561/4dd3c084-6dee-4693-bc98-1d113c1536c9">
 </a>
 
