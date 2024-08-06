@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&color=E9E5FF&center=true&random=false&width=435&lines=Hello+my+name+is+Nicollas+S.+Moraes%2C;I'm+20+years+old+;I'm+a+Software+Developer;I'm+from+Brazil" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&color=E9E5FF&center=true&random=false&width=435&lines=Hello+my+name+is+Nicollas+S.+Moraes%2C;I'm+21+years+old+;I'm+a+Software+Developer;I'm+from+Brazil" alt="Typing SVG" />
   </a>
 </div>
 
@@ -30,7 +30,7 @@
 
 ---
 <div align="center"> 
-<a href="https://instagram.com/eu__nicollasm" target="_blank">
+<a href="https://instagram.com/nicollas__eu" target="_blank">
 <img align="center" height="70" width="70" src="https://github.com/nicollaseu/nicollaseu/assets/70412561/4dd3c084-6dee-4693-bc98-1d113c1536c9">
 </a>
 
